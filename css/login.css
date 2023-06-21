@@ -1,0 +1,99 @@
+/* body{
+    background-color: rgb(121, 117, 117);
+    background-repeat: no-repeat;
+    
+    
+}
+#email, #password
+{width: 85%;
+ margin: 5px;
+}
+button
+{
+    
+    border-radius: 20px;
+    height: 30px;
+    margin-left: 22%;
+    margin-top: 40px;
+    width: 50%;
+    background-color: rgb(123, 123, 102);
+}
+input
+{
+    border: 5px solid rgb(255, 204, 0); 
+    padding-top: 10px;
+}
+
+#login_form
+{
+    height: 200px;
+    padding: 60px;
+    background-color: rgb(239, 239, 215);
+    margin: 10%;
+    margin-left: 30%;
+    border: 5px dashed rgb(255, 204, 0);
+    width: 30%;
+} */
+
+body{
+    background-color:rgb(90, 90, 90) ;
+}
+
+/* Style for the form container */
+#login_form {
+    margin-top: 10%;
+    margin-left: 30%;
+    padding-top: 200px;
+    width: 450px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+  }
+  
+  /* Style for the form input fields */
+   input
+ {
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+  }
+  
+  /* Style for the form submit button */
+  form button[type="submit"] {
+    display: block;
+    width: 95%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  /* Style for the form submit button */
+  a:link, a:visited  {
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+    display: block;
+    width: 90%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4c6faf;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Style for the error messages */
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
