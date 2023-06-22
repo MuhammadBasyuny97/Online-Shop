@@ -6,7 +6,7 @@
 1- Clone the Repesitory
 
 
-2- Open the API folder then <h6>npm start</h6> to start the server
+2- Open the API folder then  -npm start- to start the server
 
 
 3- Browse the pages and register first.
